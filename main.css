@@ -30,12 +30,12 @@ body{
     color: #40403D;
     font-size: 5vw
 }
-/*.about p{
+.about p{
     text-align: center;
     color: #70716A;
     font-size: 3vw;
 }
-.services img{
+/*.services img{
     width: 100%;
     height: auto
 }
