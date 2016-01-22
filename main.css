@@ -78,10 +78,10 @@ body{
 }
 #services h1{
     text-align: center;
-}/*
+}
 .portfolio h3{
     text-align: center;
-    margin-top: 4%;
+ /*   margin-top: 4%;
     font-size: 2vw
 }
 .port{
