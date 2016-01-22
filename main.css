@@ -20,7 +20,7 @@ body{
 .text img{
     margin-left: 40%;
 }
-/*.text h2{
+.text h2{
     text-align: center;
     color: white;
     font-size: 5vw
@@ -30,7 +30,7 @@ body{
     color: #40403D;
     font-size: 5vw
 }
-.about p{
+/*.about p{
     text-align: center;
     color: #70716A;
     font-size: 3vw;
