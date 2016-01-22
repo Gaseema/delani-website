@@ -49,10 +49,10 @@ body{
     color: white;
     font-size: 1.5vw;
 }
-/*.services {
+.services {
     background-image: url(images/what_we_do_bg.jpg)
 }
-.services h1{
+/*.services h1{
     text-align: center;
     color: white;
     padding-top: 70px;
