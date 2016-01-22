@@ -11,13 +11,13 @@ body{
     width: 100%;
     height: auto;
 }
-/*.text {
+.text {
     position: absolute;
     top: 10%;
     left: 0;
     margin-left: 25%;
 }
-.text img{
+/*.text img{
     margin-left: 40%;
 }
 .text h2{
