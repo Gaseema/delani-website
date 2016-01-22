@@ -52,9 +52,9 @@ body{
 .services {
     background-image: url(images/what_we_do_bg.jpg)
 }
-/*.services h1{
+.services h1{
     text-align: center;
-    color: white;
+/*    color: white;
     padding-top: 70px;
     padding-bottom: 40px;
 }
