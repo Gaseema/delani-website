@@ -84,9 +84,9 @@ body{
     margin-top: 4%;
     font-size: 2vw
 }
-/*.port{
+.port{
     width: 100%;
-}
+}/*
 .port img{
     display: inline-block;
     float: left;
