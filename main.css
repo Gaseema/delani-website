@@ -86,10 +86,10 @@ body{
 }
 .port{
     width: 100%;
-}/*
+}
 .port img{
     display: inline-block;
-    float: left;
+/*    float: left;
     width: 23%;
     margin-left: 1.5%
 }
